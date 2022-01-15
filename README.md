@@ -1,0 +1,1 @@
+# 1-jan-prime-number-in-array
